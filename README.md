@@ -17,3 +17,8 @@ Instalación de dependencias
 ```
 pip install -r requirements.txt
 ```
+
+## Usando quarto para generar pdfs
+```bash
+quarto render --output-dir output --pdf
+```
